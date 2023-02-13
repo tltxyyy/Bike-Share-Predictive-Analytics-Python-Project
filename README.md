@@ -2,7 +2,7 @@
 ## Project Summary
 - Data was taken from Bike Sharing Dataset (https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 - Build three models to predict bicycle rental.
-- Side note: (1) This was a team project, I mainly contributed to the creation of model 2.
+- Side note: (1) This was a team project, I mainly contributed to the creation of Model 2, Time Series Model.
 
 ## Model 1: Multiple Linear Regression
 - Preparing the data and Feature Engineering by carrying out outlier removal, categorical data transformation and treating the multicollinearity issue
