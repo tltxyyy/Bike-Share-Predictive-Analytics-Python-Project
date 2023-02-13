@@ -1,5 +1,6 @@
 # Bike-Share-Predictive-Analytics-Python-Project
 ## Project Summary
+- Data was taken from Bike Sharing Dataset (https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 - Build three models to predict bicycle rental.
 - Side note: (1) This was a team project, I mainly contributed to the creation of model 2.
 
